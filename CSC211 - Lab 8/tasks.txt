@@ -1,0 +1,8 @@
+Learn_basic_Python            12 12 2021       3       
+Implement_a_snake_game        04 01 2021       1
+Clean_up_my_room              01 10 2021       2
+Build_my_resume               12 12 2021       3
+Study_for_the_exam            03 05 2021       1
+Learn_how_to_juggle           05 06 2022       3
+Create_a_website_using_React  12 07 2021       2
+Have_a_tea_and_self-reflect   03 01 2021       2
